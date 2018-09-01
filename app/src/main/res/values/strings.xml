@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HigherNumber</string>
+    <string name="determine">Determine The Higher Number</string>
+    <string name="compare">Compare</string>
+    <string name="frst">0</string>
+    <string name="scnd">0</string>
+</resources>
